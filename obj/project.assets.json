@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Desktop/Знакомство с языками программирования семинар /Знакомство с языками программирования семинар.csproj",
+      "projectUniqueName": "/Users/admin/Desktop/Учеба/Знакомство с языками программирования семинар /Знакомство с языками программирования семинар.csproj",
       "projectName": "Знакомство с языками программирования семинар",
-      "projectPath": "/Users/admin/Desktop/Знакомство с языками программирования семинар /Знакомство с языками программирования семинар.csproj",
+      "projectPath": "/Users/admin/Desktop/Учеба/Знакомство с языками программирования семинар /Знакомство с языками программирования семинар.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/",
+      "outputPath": "/Users/admin/Desktop/Учеба/Знакомство с языками программирования семинар /obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
