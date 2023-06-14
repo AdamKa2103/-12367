@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.AssemblyInfo.cs
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /bin/Debug/net6.0/Знакомство с языками программирования семинар
+/Users/admin/Desktop/Знакомство с языками программирования семинар /bin/Debug/net6.0/Знакомство с языками программирования семинар.deps.json
+/Users/admin/Desktop/Знакомство с языками программирования семинар /bin/Debug/net6.0/Знакомство с языками программирования семинар.runtimeconfig.json
+/Users/admin/Desktop/Знакомство с языками программирования семинар /bin/Debug/net6.0/Знакомство с языками программирования семинар.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /bin/Debug/net6.0/Знакомство с языками программирования семинар.pdb
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/refint/Знакомство с языками программирования семинар.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.pdb
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/Знакомство с языками программирования семинар.genruntimeconfig.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /obj/Debug/net6.0/ref/Знакомство с языками программирования семинар.dll

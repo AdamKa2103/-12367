@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.AssemblyInfo.cs
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/bin/Debug/net6.0/Дз2
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/bin/Debug/net6.0/Дз2.deps.json
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/bin/Debug/net6.0/Дз2.runtimeconfig.json
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/bin/Debug/net6.0/Дз2.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/bin/Debug/net6.0/Дз2.pdb
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/refint/Дз2.dll
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.pdb
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/Дз2.genruntimeconfig.cache
+/Users/admin/Desktop/Знакомство с языками программирования семинар /Дз2/obj/Debug/net6.0/ref/Дз2.dll
